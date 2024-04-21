@@ -1,2 +1,2 @@
-# FireBlaze_Project
+# Power_BI_Dashboard
 PowerBi
